@@ -1,0 +1,13 @@
+node_modules
+.travis.yml
+LICENSE
+README.md
+css
+gulpfile.js
+img
+packape-lock.json
+package.json
+scss
+vendor
+proyectopokemonbank
+
